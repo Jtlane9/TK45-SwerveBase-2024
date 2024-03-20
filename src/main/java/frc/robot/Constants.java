@@ -20,7 +20,7 @@ public final class Constants
 
     /* Intake Constants */
     public static final int IntakeLeftID = 40;
-    public static final int IntakeRightID = 41;
+    public static final int IntakeRightID = 41; //f
 
     /* Arm Constants */   
     public static final int ArmID = 60;
