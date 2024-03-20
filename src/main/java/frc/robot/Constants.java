@@ -19,8 +19,8 @@ public final class Constants
     public static final double stickDeadband = 0.1;
 
     /* Intake Constants */
-    public static final int IntakeLeftID = 40;  // TODO - REMOVE
-    public static final int IntakeRightID = 41; // TODO - REMOVE
+    public static final int IntakeLeftID = 40;
+    public static final int IntakeRightID = 41;
 
     /* Arm Constants */   
     public static final int ArmID = 60;  // TODO - REMOVE
