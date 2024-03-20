@@ -23,8 +23,8 @@ public final class Constants
     public static final int IntakeRightID = 41;
 
     /* Arm Constants */   
-    public static final int ArmID = 60;  // TODO - REMOVE
-    public static final int ArmEncoderID = 61;   // TODO - REMOVE
+    public static final int ArmID = 60;
+    public static final int ArmEncoderID = 61;
 
     public static final double ARM_P = .02;  // TODO - REMOVE
     public static final double ARM_I = 0;    // TODO - REMOVE
